@@ -1,6 +1,7 @@
 # Resumo da Análise dos Dados Ecommerce
 
 Este projeto de análise de dados foi concebido para extrair insights valiosos do comportamento dos usuários em uma plataforma de comércio eletrônico. Utilizando um conjunto de dados abrangente, que engloba várias interações dos usuários, como visualizações de produtos, adições ao carrinho, remoções do carrinho e compras, o objetivo é fornecer uma base sólida para decisões estratégicas de negócios.
+A análise faz parte do Desafio #5DataGlowUp #30
 
 ### Objetivos:
 
@@ -23,4 +24,9 @@ O projeto emprega análises para entender as tendências e padrões. A análise 
 ### Resultados Esperados:
 
 Espera-se que a análise forneça uma visão detalhada do comportamento do cliente e revele oportunidades para aumentar a receita, melhorar a experiência do usuário e otimizar o estoque. A intenção é que a documentação e as recomendações aqui apresentadas sirvam como um guia estratégico para a equipe de negócios e marketing, auxiliando na elaboração de estratégias orientadas por dados.
+
+### Base de Dados:
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop/data
+
 
