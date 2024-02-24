@@ -1,3 +1,6 @@
+![logo](https://github.com/NayaraWakewski/analise_ecommerce/assets/79403619/1f6f8ed9-f062-407c-8b50-c57b75d010a9)
+
+
 # Resumo da Análise dos Dados Ecommerce
 
 Este projeto de análise de dados foi concebido para extrair insights valiosos do comportamento dos usuários em uma plataforma de comércio eletrônico. Utilizando um conjunto de dados abrangente, que engloba várias interações dos usuários, como visualizações de produtos, adições ao carrinho, remoções do carrinho e compras, o objetivo é fornecer uma base sólida para decisões estratégicas de negócios.
